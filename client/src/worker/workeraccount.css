@@ -1,0 +1,56 @@
+.midj
+{
+    background-color: aquamarine;
+    display: inline-block;
+}
+.btn-circle.btn-xl {
+    color:white;
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+    margin: auto;
+    padding: 10px;
+}
+
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+    margin: auto;
+    padding: 10px;
+}
+
+
+
+
+.columnn
+{
+    background-color: black;
+    border-color: teal;
+    border-width: 10px;
+    border-radius: 20px;
+}
+.here
+{
+    color: thistle;
+}
+
+.card
+{
+    background-color: black;
+}
+
+.messages
+{
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+}

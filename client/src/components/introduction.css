@@ -1,0 +1,49 @@
+.firstbox
+{
+    background-color: rgb(56, 21, 21);
+    /* background-image: url('../images/s.jpg'); */
+    border-radius: 0%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+@keyframes mymove {
+    from {left: -300px;}
+    to {left: 0px;}
+  }
+
+.headerlogo
+{
+    color:aquamarine;
+    margin-left: 100px;
+    border-radius: 20px;
+    font-weight: bold;
+    position: relative;
+    animation: mymove 2.2s;
+}
+
+
+
+.mobile
+{
+    width: 70%;
+    border-radius: 20%;
+    font-weight: bold;
+    position: relative;
+    animation: mymove 2.2s;
+}
+
+
+@keyframes mymove2 {
+    from {left: 800px;}
+    to {left: 0px;}
+  }
+.whatis
+{
+    animation-timing-function: ease;
+    font-weight: bold;
+    position: relative;
+    animation: mymove2 2.2s;
+    color: aquamarine;
+}

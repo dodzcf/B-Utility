@@ -1,0 +1,18 @@
+.customer
+{
+    font-size: 5rem;
+    
+}
+
+.card
+{
+    margin-left: auto;
+    margin-right: auto;
+    border: 80%;
+    width: 50%;
+}
+
+.usercolor
+{
+    background-color: rgb(56, 21, 21);
+}
